@@ -22,7 +22,7 @@
 
 1. Клонируйте репозиторий:
     ```bash
-    git clone <URL репозитория>
+    git clone https://github.com/sidepixel-lev73/machlearn.git
     ```
 2. Создайте виртуальное окружение:
     ```bash
